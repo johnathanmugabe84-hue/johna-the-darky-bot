@@ -1,0 +1,14 @@
+{
+  "name": "johna-the-darky-ultimate-bot",
+  "version": "3.0.0",
+  "description": "Ultimate WhatsApp MD Group Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.17.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
